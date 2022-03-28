@@ -1,0 +1,13 @@
+/*************************
+*
+*  Color
+*
+*************************/
+:root {
+    --color-primary: #B11E16;
+    --color-secondary:#B11E16;
+    --color-third: #B11E16;
+    --color-bg: #fbfbfb;
+    --color-border: rgba(0,0,0,0.1);
+    --color-white: #fff;
+}
